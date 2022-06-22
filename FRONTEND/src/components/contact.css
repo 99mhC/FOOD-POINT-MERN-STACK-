@@ -1,0 +1,122 @@
+.otherProduct_img{
+    background-color: white;
+    width: 40% !important;
+    height: 700px;
+    
+
+    
+}
+.bhatureCard{
+   
+   
+    background-color: white;
+    width: 60% !important;
+    height: 700px;
+    overflow: scroll;
+    scroll-behavior: 100%;
+}
+.otherProduct_img,.bhatureCard{
+    float: left;
+    margin-top: 25px;
+}
+
+h1{
+    font-weight: bold;
+    text-align:center;
+}
+
+.pp1{
+    height:400px;
+    background-image: url("https://img.freepik.com/free-psd/food-social-media-promotion-instagram-banner-post-design-template_202595-475.jpg?size=338&ext=jpg&ga=GA1.2.2131821096.1655792437");
+    background-size: cover;
+    
+}
+.pp2,img{
+    height:300px;
+    width:100%;
+}
+
+
+img{
+    height:300px;
+}
+
+@media (max-width: 360px) {
+
+    .otherProduct_img{
+    background-color: white;
+    width: 100% !important;
+    height: 600px;
+    
+
+    
+}
+.bhatureCard{
+   
+   
+    background-color: white;
+    width: 100% !important;
+    height: 600px;
+    
+}
+}
+
+@media (max-width: 375px) {
+
+    .otherProduct_img{
+    background-color: white;
+    width: 100% !important;
+    height: 600px;
+    
+
+    
+}
+.bhatureCard{
+   
+   
+    background-color: white;
+    width: 100% !important;
+    height: 600px;
+    
+}
+}
+
+@media (max-width: 414px) {
+
+    .otherProduct_img{
+    background-color: white;
+    width: 100% !important;
+    height: 600px;
+    
+
+    
+}
+.bhatureCard{
+   
+   
+    background-color: white;
+    width: 100% !important;
+    height: 600px;
+    
+}
+}
+
+@media (max-width: 540px) {
+
+    .otherProduct_img{
+    background-color: white;
+    width: 100% !important;
+    height: 600px;
+    
+
+    
+}
+.bhatureCard{
+   
+   
+    background-color: white;
+    width: 100% !important;
+    height: 600px;
+    
+}
+}
